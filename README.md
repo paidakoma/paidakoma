@@ -1,4 +1,7 @@
-## Hi there 👋
+## Full Stack Developer
+
+- 📫 How to reach me: paidakoma@outlook.co.id
+- 🌱 DOB: 06/19/2005
 
 <!--
 **paidakoma/paidakoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
