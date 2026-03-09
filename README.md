@@ -1,6 +1,8 @@
 ## Full Stack Developer
 
-- 📫 How to reach me: paidakoma@outlook.co.id
+- 📫 How to reach me:
+  - paidakoma@outlook.co.id
+  - +12706056829
 - 🌱 DOB: 06/19/2005
 
 <!--
